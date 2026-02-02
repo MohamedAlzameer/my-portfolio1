@@ -69,5 +69,5 @@ This portfolio website represents my learning journey as a frontend developer. I
 **Mohamed Al Zameer**
 Frontend Developer | Student
 ---
-PAGE LINK:
+PAGE LINK: https://mohamedalzameer.github.io/my-portfolio1/
 
